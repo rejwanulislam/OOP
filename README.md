@@ -6,7 +6,7 @@
 
 ---
 
-## 📚 Table of Contents
+## 📚 Table of Contents-
 
 1. [OOP কী এবং কেন দরকার](#1-oop-কী-এবং-কেন-দরকার)
 2. [OOP-এর চারটি Pillar](#2-oop-এর-চারটি-pillar)
